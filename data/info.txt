@@ -1,5 +1,5 @@
 name;pop_den
-Ahvenanmaa;19.4
+Ahvenanmaan maakunta;19.4
 Etelä-Karjala;23.8
 Etelä-Pohjanmaa;14.3
 Etelä-Savo;9.3
